@@ -1,0 +1,8 @@
+C:\Users\azhar\source\repos\Sprint_Week_1\obj\Debug\net7.0\Sprint_Week_1.csproj.AssemblyReference.cache
+C:\Users\azhar\source\repos\Sprint_Week_1\obj\Debug\net7.0\Sprint_Week_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhar\source\repos\Sprint_Week_1\obj\Debug\net7.0\Sprint_Week_1.AssemblyInfoInputs.cache
+C:\Users\azhar\source\repos\Sprint_Week_1\obj\Debug\net7.0\Sprint_Week_1.AssemblyInfo.cs
+C:\Users\azhar\source\repos\Sprint_Week_1\obj\Debug\net7.0\Sprint_Week_1.csproj.CoreCompileInputs.cache
+C:\Users\azhar\source\repos\Sprint_Week_1\obj\Debug\net7.0\Sprint_Week_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\azhar\source\repos\Sprint_Week_1\obj\Debug\net7.0\Sprint_Week_1.RazorAssemblyInfo.cache
+C:\Users\azhar\source\repos\Sprint_Week_1\obj\Debug\net7.0\Sprint_Week_1.RazorAssemblyInfo.cs
